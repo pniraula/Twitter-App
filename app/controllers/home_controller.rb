@@ -1,6 +1,5 @@
 class HomeController < ApplicationController
-  def index
-	@msg = "Hello World";
+  def contact
   end
 
 end

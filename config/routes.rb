@@ -1,4 +1,6 @@
 Twitter::Application.routes.draw do
+  get "home/contact"
+
   resources :posts
 
   get "home/index"
