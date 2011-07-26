@@ -8,3 +8,4 @@ It is disappointing and miserable to watch me get stuck on this same spot for al
 I think I'm a failure. 
 [Forever Alone](http://reddit.com/r/foreveralone "I reside here")
 
+I got your back, no worries :)
